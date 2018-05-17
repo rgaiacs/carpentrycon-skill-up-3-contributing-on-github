@@ -47,7 +47,7 @@ has a sample of the file system that you would find in any lesson.
 Most of the content of the lesson is under `_episodes`,
 or in the case of an R lesson it is under `_episodes_rmd`.
 
-![Screenshot of _episodes folder](img/file-system-episode.jpg)
+![Screenshot of _episodes folder](img/file-system-episodes.jpg)
 
 ## Fork this project
 
