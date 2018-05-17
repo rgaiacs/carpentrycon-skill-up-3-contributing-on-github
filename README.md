@@ -39,7 +39,15 @@ If you don't have an account, you can "Sign up" for one.
 
 ## File system
 
-- Edit the files on `_episodes`
+[https://github.com/rgaiacs/carpentrycon-skill-up-3-lesson-example](https://github.com/rgaiacs/carpentrycon-skill-up-3-lesson-example)
+has a sample of the file system that you would find in any lesson.
+
+![Screenshot of lesson file system](img/file-system.jpg)
+
+Most of the content of the lesson is under `_episodes`,
+or in the case of an R lesson it is under `_episodes_rmd`.
+
+![Screenshot of _episodes folder](img/file-system-episode.jpg)
 
 ## Fork this project and edit the file
 
