@@ -104,4 +104,8 @@ and add comments.
 
 ![Screenshot of GitHub diff](img/github-pull-request.jpg)
 
-## Q&A
+## Questions and Answers
+
+1. **How can I see my changes in the HTML?**
+
+   You can only see the HTML for your `gh-pages` branch.
