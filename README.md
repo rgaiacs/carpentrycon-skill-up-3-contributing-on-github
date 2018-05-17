@@ -49,14 +49,59 @@ or in the case of an R lesson it is under `_episodes_rmd`.
 
 ![Screenshot of _episodes folder](img/file-system-episode.jpg)
 
-## Fork this project and edit the file
+## Fork this project
 
-## Propose file change
+To edit any file,
+you will be required to have a fork,
+i.e. your own copy of the project.
 
-## Comparing changes
+![Screenshot of fork button](img/fork.jpg)
 
-## Create pull request
+If you don't have a fork,
+GitHub will create one for you at some point.
+
+## Edit file
+
+If you inspect any file,
+you will find the option to edit it
+at the top right corner of the file content.
+
+![Screenshot of edit button](img/file.jpg)
+
+Links to edit the file are also available on the HTML version of the lesson.
+
+![Screenshot of edit button](img/file-html.jpg)
+
+GitHub has a basic text editor.
+
+![Screenshot of GitHub text editor](img/github-text-editor.jpg)
+
+It is suitable for small editions.
+
+After you change the file,
+you **must** go to the end of the page
+to propose the changes.
+
+![Screenshot of GitHub commit form](img/github-commit.jpg)
+
+## Open a pull request
+
+After save the changes,
+you will be redirect to open a pull request.
+
+![Screenshot of GitHub open pull request form](img/github-open-pull-request.jpg)
+
+At the end of the page,
+you can review the changes that will be included in the pull request.
+
+![Screenshot of GitHub diff](img/github-diff.jpg)
 
 ## Review process
+
+With the pull request created,
+maintainers can review it
+and add comments.
+
+![Screenshot of GitHub diff](img/github-pull-request.jpg)
 
 ## Q&A
