@@ -104,10 +104,26 @@ you can review the changes that will be included in the pull request.
 ## Review process
 
 With the pull request created,
-maintainers can review it
-and add comments.
+contributors and maintainers can have a conversation about the change.
 
 ![Screenshot of GitHub diff](img/github-pull-request.jpg)
+
+And maintainers can add comments to specific parts of the change.
+
+![Screenshot of GitHub diff](img/github-pull-request-diff.jpg)
+
+To help maintainers,
+we use [Travis CI](https://travis-ci.org/) test build the lesson
+and verify some things.
+If your pull request make the build fail,
+maintainers will ask you to fix it before accept your contribution.
+
+![Screenshot of GitHub Travis CI](img/github-pull-request-travis-ci.jpg)
+
+A log of the commands that Travis CI used to build the lesson
+is available for all users.
+
+![Screenshot of Travis CI](img/travis-ci-pull-request-fail.png)
 
 ## Questions and Answers
 
