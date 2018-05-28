@@ -123,7 +123,7 @@ maintainers will ask you to fix it before accept your contribution.
 A log of the commands that Travis CI used to build the lesson
 is available for all users.
 
-![Screenshot of Travis CI](img/travis-ci-pull-request-fail.png)
+![Screenshot of Travis CI](img/travis-ci-pull-request-fail.jpg)
 
 ## Questions and Answers
 
