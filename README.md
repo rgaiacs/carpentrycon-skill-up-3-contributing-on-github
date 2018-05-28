@@ -17,6 +17,11 @@
   Please attend the Workshop 1 Bring and Build Your Own Lesson 'Carpentries-style' on Friday, 1 June from 9:00am until 12:30pm.
 - Maintain one of the lessons
 
+## Version of Lesson Style
+
+This session uses [v9.5.0](https://github.com/swcarpentry/styles/releases/tag/v9.5.0).
+Please be aware that some things can be different in previous or future versions.
+
 ## GitHub Account
 
 Access [https://github.com](https://github.com) with your web browser.
