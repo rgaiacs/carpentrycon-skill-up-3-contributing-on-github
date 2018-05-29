@@ -125,6 +125,17 @@ is available for all users.
 
 ![Screenshot of Travis CI](img/travis-ci-pull-request-fail.jpg)
 
+## The importance of keeping your branch up-to-date
+
+### Demonstration of the merge-conflict
+
+If you edit a file that has already been updated upstream,
+a merge conflict can arise.
+
+### How to bring your fork up-to-date?
+
+You need to create a pull request from the upstream repository into your own fork.
+
 ## Questions and Answers
 
 1. **How can I see my changes in the HTML?**
