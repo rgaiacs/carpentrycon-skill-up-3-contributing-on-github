@@ -125,6 +125,8 @@ is available for all users.
 
 ![Screenshot of Travis CI](img/travis-ci-pull-request-fail.jpg)
 
+## Include Figure
+
 ## The importance of keeping your branch up-to-date
 
 ### Demonstration of the merge-conflict
