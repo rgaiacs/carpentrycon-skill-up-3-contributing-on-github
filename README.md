@@ -125,7 +125,32 @@ is available for all users.
 
 ![Screenshot of Travis CI](img/travis-ci-pull-request-fail.jpg)
 
-## Include Figure
+## Include Images
+
+You can include images and other files on your pull request.
+Visit your fork and select the branch relative to the pull request
+that you want to add the image.
+
+![Screenshot of GitHub fork](img/github-add-figure-home.jpg)
+
+In any folder,
+you will find a option to upload files
+on the top of the file list.
+
+![Screenshot of GitHub and fig folder](img/github-fig-folder.jpg)
+
+GitHub will allow you to upload as many files as you want.
+
+![Screenshot of GitHub file uploader](img/github-figure-select.jpg)
+
+And you need to create a new commit.
+
+![Screenshot of GitHub file uploaded](img/github-figure-commit.jpg)
+
+If you create the commit on the correct branch,
+your new commit will show up on the pull request page.
+
+![Screenshot of GitHub pull request with image](img/github-figure-pr.jpg)
 
 ## The importance of keeping your branch up-to-date
 
