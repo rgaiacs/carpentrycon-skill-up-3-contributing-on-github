@@ -77,11 +77,11 @@ Links to edit the file are also available on the HTML version of the lesson.
 
 ![Screenshot of edit button](img/file-html.jpg)
 
-GitHub has a basic text editor.
+GitHub has a basic text editor that allow you to edit the file.
 
 ![Screenshot of GitHub text editor](img/github-text-editor.jpg)
 
-It is suitable for small editions.
+It is suitable for small editions but verly limited. For example, you don't have autocomplete.
 
 After you change the file,
 you **must** go to the end of the page
@@ -91,7 +91,7 @@ to propose the changes.
 
 ## Open a pull request
 
-After save the changes,
+After propose the changes,
 you will be redirect to open a pull request.
 
 ![Screenshot of GitHub open pull request form](img/github-open-pull-request.jpg)
@@ -113,10 +113,11 @@ And maintainers can add comments to specific parts of the change.
 ![Screenshot of GitHub diff](img/github-pull-request-diff.jpg)
 
 To help maintainers,
-we use [Travis CI](https://travis-ci.org/) test build the lesson
-and verify some things.
+we use [Travis CI](https://travis-ci.org/).
+Travis CI will build the lesson
+and check if it has errors.
 If your pull request make the build fail,
-maintainers will ask you to fix it before accept your contribution.
+maintainers will ask you to fix it before they accept your contribution.
 
 ![Screenshot of GitHub Travis CI](img/github-pull-request-travis-ci.jpg)
 
@@ -141,16 +142,16 @@ on the top of the file list.
 
 GitHub will allow you to upload as many files as you want.
 
-![Screenshot of GitHub file uploader](img/github-figure-select.jpg)
+![Screenshot of GitHub file uploader](img/github-add-figure-select.jpg)
 
 And you need to create a new commit.
 
-![Screenshot of GitHub file uploaded](img/github-figure-commit.jpg)
+![Screenshot of GitHub file uploaded](img/github-add-figure-commit.jpg)
 
 If you create the commit on the correct branch,
 your new commit will show up on the pull request page.
 
-![Screenshot of GitHub pull request with image](img/github-figure-pr.jpg)
+![Screenshot of GitHub pull request with image](img/github-add-figure-pr.jpg)
 
 ## The importance of keeping your branch up-to-date
 
